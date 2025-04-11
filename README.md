@@ -1,6 +1,3 @@
-# A first-level heading
-## A second-level heading
-### A third-level heading
 # 📄 Document Language Translator
 
 A user-friendly application to translate documents written in English into various Indian regional languages. Built with Python, this tool leverages language translation libraries and APIs to make multilingual communication accessible and efficient.
