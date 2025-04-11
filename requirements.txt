@@ -1,0 +1,8 @@
+tkinter
+PIL
+pytesseract
+pdfplumber
+speech_recognition
+googletrans
+docx 
+gtts
