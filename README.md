@@ -1,10 +1,11 @@
 # A first-level heading
 ## A second-level heading
 ### A third-level heading
-#📄 Document Language Translator 🇮🇳
+# 📄 Document Language Translator
+
 A user-friendly application to translate documents written in English into various Indian regional languages. Built with Python, this tool leverages language translation libraries and APIs to make multilingual communication accessible and efficient.
 
-##🌟 Features
+# 🌟 Features
 🔤 English to Indian Languages – Translate documents from English to Hindi, Telugu, Tamil, Bengali, Kannada, Malayalam, Marathi, Gujarati, and more.
 
 📁 Document Upload – Easily upload .txt or .docx files for translation.
@@ -17,66 +18,55 @@ A user-friendly application to translate documents written in English into vario
 
 🎨 Simple GUI – Intuitive interface built using Python's Tkinter (or specify your GUI framework).
 
-##🛠️ Tech Stack
+# 🛠️ Tech Stack
 Language: Python
 
-GUI: Tkinter / PyQt / Streamlit (Specify based on your implementation)
+GUI: Tkinter / PyQt
 
-Translation API: Googletrans / IndicTrans / HuggingFace Transformers (Mention what you're using)
+Translation API: Googletrans API
 
-File Handling: python-docx, os, io
+File Handling: python-docx, pyPDF, os, io
 
-##🚀 Getting Started
+# 🚀 Getting Started
 Prerequisites
 Python 3.7+
-
 Pip
-
 Installation
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/document-language-translator.git
-cd document-language-translator
+git clone https://github.com/hiHarish/DocsTranslate.git
+cd DocsTranslate
 pip install -r requirements.txt
 Run the App
-bash
 Copy
 Edit
-python app.py
-📷 Screenshots
-(Insert screenshots of the app interface before and after translation here)
+python langTrans.py
+# 📷 Screenshots
+![image](https://github.com/user-attachments/assets/a696cef2-5d5d-42bc-8bbe-7ceae22c0dd0)
 
-##🌐 Supported Languages
+
+# 🌐 Supported Languages
 Hindi
-
 Telugu
-
 Tamil
-
 Bengali
-
 Kannada
-
 Malayalam
-
 Marathi
-
 Gujarati
 
-##📂 Folder Structure
+# 📂 Folder Structure
 bash
 Copy
 Edit
 document-language-translator/
-│
+│---requirements.txt
 ├── app.py                  # Main application script
-##🙌 Contribution
+
+# 🙌 Contribution
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
-##🤝 Acknowledgements
+# 🤝 Acknowledgements
 Google Translate API
-
 Indic NLP Library
-
-Hugging Face Transformers
