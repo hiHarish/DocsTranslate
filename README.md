@@ -5,7 +5,7 @@ A user-friendly application to translate documents written in English into vario
 # 🌟 Features
 🔤 English to Indian Languages – Translate documents from English to Hindi, Telugu, Tamil, Bengali, Kannada, Malayalam, Marathi, Gujarati, and more.
 
-📁 Document Upload – Easily upload .txt or .docx files for translation.
+📁 Document Upload – Easily upload .txt, .docx, .pdf files for translation.
 
 📄 Multi-page Support – Supports documents with multiple paragraphs and pages.
 
